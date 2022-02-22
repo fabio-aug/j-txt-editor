@@ -2,6 +2,7 @@
 A simple editor for .txt files
 
 Author: Fábio Augusto Araújo Santos
+
 Project version: 1.0
 
 ---
